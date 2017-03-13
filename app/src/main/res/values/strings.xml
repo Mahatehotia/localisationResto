@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mes Restaurants</string>
+    <string name="textViewRayon">Rayon de recherche(m)</string>
+    <string name="note">mieux noté</string>
+    <string name="pres">plus près</string>
+    <string name="buttonTrouver">TROUVER</string>
+</resources>
